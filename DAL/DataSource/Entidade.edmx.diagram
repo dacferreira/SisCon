@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="42ae8c9520634b868245d0782b60c9a8" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjetoFinalModel.Usuario" Width="1.5" PointX="5.875" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.Cliente" Width="1.5" PointX="3.375" PointY="1.125" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.PessoaFisica" Width="1.5" PointX="0.875" PointY="4.25" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.PessoaJuridica" Width="1.5" PointX="0.875" PointY="1.75" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_PessoaFisica_Cliente" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_PessoaJuridica_Cliente" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.Entrega" Width="1.5" PointX="11.5" PointY="4.125" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.Venda" Width="1.5" PointX="8.875" PointY="1.5" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_Venda_Cliente" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_Entrega_Venda" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_Venda_Usuario" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.Devolucao" Width="1.5" PointX="11.875" PointY="7.5" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.ItemDevolucao" Width="1.5" PointX="11.375" PointY="10.5" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_ItemDevolucao_Devolucao" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.ItemPedido" Width="1.5" PointX="9.125" PointY="6.75" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_Devolucao_ItemPedido" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_ItemPedido_Venda" />
+        <EntityTypeShape EntityType="ProjetoFinalModel.Produto" Width="1.5" PointX="9.125" PointY="10" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_ItemDevolucao_Produto" />
+        <AssociationConnector Association="ProjetoFinalModel.FK_ItemPedido_Produto" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,837 @@
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Gabriel\Documents\Facul\8 Período\TCC\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Douglas\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Douglas\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\projetofinal v8\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Douglas\Desktop\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarProdutosEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarProdutosEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Orcamento.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarProdutosEntrega.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\REV23\ProjetoFinal_Rev22\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarProdutosEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarPreco.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.AlterarQuantidade.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.CabecalhoManterView1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Cliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConfirmarProdutosEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarCliente.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarProduto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ConsultarUsuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Desconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Devolucao.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Entrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FM_Principal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.FormaPagamento.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Funcionario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.LancaSaldo.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.MaisVendidos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Produto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.ProdutosSaldoZero.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.SenhaDesconto.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Sobre.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TelaSplash.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.TodosProdutosAtivos.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Usuario.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.Venda.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VisualizarEntrega.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Views.VendaMensal.resources
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.manifest
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.application
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe.manifest
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.application

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VendaMensal" targetNamespace="http://tempuri.org/VendaMensal.xsd" xmlns:mstns="http://tempuri.org/VendaMensal.xsd" xmlns="http://tempuri.org/VendaMensal.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ProjetoFinalConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ProjetoFinalConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ProjetoFinal.Properties.Settings.GlobalReference.Default.ProjetoFinalConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VendaTableAdapter" GeneratorDataComponentClassName="VendaTableAdapter" Name="Venda" UserDataComponentName="VendaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ProjetoFinalConnectionString (Settings)" DbObjectName="ProjetoFinal.dbo.Venda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT
+Id, Data, Dinheiro, Debito, Credito, ValorTotal 
+FROM Venda
+WHERE month(Data) = month(getdate())
+	</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Id" DataSetColumn="Id" />
+              <Mapping SourceColumn="Data" DataSetColumn="Data" />
+              <Mapping SourceColumn="Dinheiro" DataSetColumn="Dinheiro" />
+              <Mapping SourceColumn="Debito" DataSetColumn="Debito" />
+              <Mapping SourceColumn="Credito" DataSetColumn="Credito" />
+              <Mapping SourceColumn="ValorTotal" DataSetColumn="ValorTotal" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="ProjetoFinalConnectionString (Settings)" DbObjectName="ProjetoFinal.dbo.Venda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="FillBy" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Id, Data, Dinheiro, Debito, Credito, ValorTotal
+FROM            Venda
+WHERE        (MONTH(Data) = MONTH(GETDATE()))</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="VendaMensal" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="VendaMensal" msprop:Generator_UserDSName="VendaMensal">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Venda" msprop:Generator_TableClassName="VendaDataTable" msprop:Generator_TableVarName="tableVenda" msprop:Generator_TablePropName="Venda" msprop:Generator_RowDeletingName="VendaRowDeleting" msprop:Generator_RowChangingName="VendaRowChanging" msprop:Generator_RowEvHandlerName="VendaRowChangeEventHandler" msprop:Generator_RowDeletedName="VendaRowDeleted" msprop:Generator_UserTableName="Venda" msprop:Generator_RowChangedName="VendaRowChanged" msprop:Generator_RowEvArgName="VendaRowChangeEvent" msprop:Generator_RowClassName="VendaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Quantidade" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnQuantidade" msprop:Generator_ColumnPropNameInRow="Quantidade" msprop:Generator_ColumnPropNameInTable="QuantidadeColumn" msprop:Generator_UserColumnName="Quantidade" type="xs:double" minOccurs="0" />
+              <xs:element name="Id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:int" />
+              <xs:element name="Data" msprop:Generator_ColumnVarNameInTable="columnData" msprop:Generator_ColumnPropNameInRow="Data" msprop:Generator_ColumnPropNameInTable="DataColumn" msprop:Generator_UserColumnName="Data" type="xs:dateTime" />
+              <xs:element name="Dinheiro" msprop:Generator_ColumnVarNameInTable="columnDinheiro" msprop:Generator_ColumnPropNameInRow="Dinheiro" msprop:Generator_ColumnPropNameInTable="DinheiroColumn" msprop:Generator_UserColumnName="Dinheiro" type="xs:double" minOccurs="0" />
+              <xs:element name="Debito" msprop:Generator_ColumnVarNameInTable="columnDebito" msprop:Generator_ColumnPropNameInRow="Debito" msprop:Generator_ColumnPropNameInTable="DebitoColumn" msprop:Generator_UserColumnName="Debito" type="xs:double" minOccurs="0" />
+              <xs:element name="Credito" msprop:Generator_ColumnVarNameInTable="columnCredito" msprop:Generator_ColumnPropNameInRow="Credito" msprop:Generator_ColumnPropNameInTable="CreditoColumn" msprop:Generator_UserColumnName="Credito" type="xs:double" minOccurs="0" />
+              <xs:element name="ValorTotal" msprop:Generator_ColumnVarNameInTable="columnValorTotal" msprop:Generator_ColumnPropNameInRow="ValorTotal" msprop:Generator_ColumnPropNameInTable="ValorTotalColumn" msprop:Generator_UserColumnName="ValorTotal" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Venda" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjetoFinalModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ProjetoFinalModelStoreContainer">
+    <EntitySet Name="Funcionario" EntityType="ProjetoFinalModel.Store.Funcionario" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Funcionario">
+    <Key>
+      <PropertyRef Name="IdFuncionario" />
+    </Key>
+    <Property Name="IdFuncionario" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Matricula" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="NomeFuncionario" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Login" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="Senha" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="Complemento" Type="varchar" MaxLength="20" />
+    <Property Name="Numero" Type="int" />
+    <Property Name="CPF" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Cargo" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DataAdmissao" Type="datetime" Nullable="false" />
+    <Property Name="FlgSituacaoFuncionario" Type="bit" Nullable="false" />
+  </EntityType>
+</Schema>

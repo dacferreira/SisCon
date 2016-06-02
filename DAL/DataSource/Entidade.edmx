@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ProjetoFinalModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="ProjetoFinalModelStoreContainer">
+          <EntitySet Name="Cliente" EntityType="ProjetoFinalModel.Store.Cliente" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Devolucao" EntityType="ProjetoFinalModel.Store.Devolucao" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Entrega" EntityType="ProjetoFinalModel.Store.Entrega" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="ItemDevolucao" EntityType="ProjetoFinalModel.Store.ItemDevolucao" store:Type="Tables" store:Schema="dbo" store:Name="ItemDevolucao">
+            <DefiningQuery>SELECT 
+      [ItemDevolucao].[Quantidade] AS [Quantidade], 
+      [ItemDevolucao].[IdProduto] AS [IdProduto], 
+      [ItemDevolucao].[IdDevolucao] AS [IdDevolucao]
+      FROM [dbo].[ItemDevolucao] AS [ItemDevolucao]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ItemPedido" EntityType="ProjetoFinalModel.Store.ItemPedido" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="PessoaFisica" EntityType="ProjetoFinalModel.Store.PessoaFisica" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="PessoaJuridica" EntityType="ProjetoFinalModel.Store.PessoaJuridica" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Produto" EntityType="ProjetoFinalModel.Store.Produto" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Usuario" EntityType="ProjetoFinalModel.Store.Usuario" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Venda" EntityType="ProjetoFinalModel.Store.Venda" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_Devolucao_ItemPedido" Association="ProjetoFinalModel.Store.FK_Devolucao_ItemPedido">
+            <End Role="ItemPedido" EntitySet="ItemPedido" />
+            <End Role="Devolucao" EntitySet="Devolucao" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Entrega_Venda" Association="ProjetoFinalModel.Store.FK_Entrega_Venda">
+            <End Role="Venda" EntitySet="Venda" />
+            <End Role="Entrega" EntitySet="Entrega" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ItemDevolucao_Devolucao" Association="ProjetoFinalModel.Store.FK_ItemDevolucao_Devolucao">
+            <End Role="Devolucao" EntitySet="Devolucao" />
+            <End Role="ItemDevolucao" EntitySet="ItemDevolucao" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ItemDevolucao_Produto" Association="ProjetoFinalModel.Store.FK_ItemDevolucao_Produto">
+            <End Role="Produto" EntitySet="Produto" />
+            <End Role="ItemDevolucao" EntitySet="ItemDevolucao" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ItemPedido_Produto" Association="ProjetoFinalModel.Store.FK_ItemPedido_Produto">
+            <End Role="Produto" EntitySet="Produto" />
+            <End Role="ItemPedido" EntitySet="ItemPedido" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ItemPedido_Venda" Association="ProjetoFinalModel.Store.FK_ItemPedido_Venda">
+            <End Role="Venda" EntitySet="Venda" />
+            <End Role="ItemPedido" EntitySet="ItemPedido" />
+          </AssociationSet>
+          <AssociationSet Name="FK_PessoaFisica_Cliente" Association="ProjetoFinalModel.Store.FK_PessoaFisica_Cliente">
+            <End Role="Cliente" EntitySet="Cliente" />
+            <End Role="PessoaFisica" EntitySet="PessoaFisica" />
+          </AssociationSet>
+          <AssociationSet Name="FK_PessoaJuridica_Cliente" Association="ProjetoFinalModel.Store.FK_PessoaJuridica_Cliente">
+            <End Role="Cliente" EntitySet="Cliente" />
+            <End Role="PessoaJuridica" EntitySet="PessoaJuridica" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Venda_Cliente" Association="ProjetoFinalModel.Store.FK_Venda_Cliente">
+            <End Role="Cliente" EntitySet="Cliente" />
+            <End Role="Venda" EntitySet="Venda" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Venda_Usuario" Association="ProjetoFinalModel.Store.FK_Venda_Usuario">
+            <End Role="Usuario" EntitySet="Usuario" />
+            <End Role="Venda" EntitySet="Venda" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Cliente">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Endereco" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="CEP" Type="varchar" Nullable="false" MaxLength="9" />
+          <Property Name="Cidade" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="Bairro" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="UF" Type="varchar" Nullable="false" MaxLength="2" />
+          <Property Name="Telefone" Type="varchar" Nullable="false" MaxLength="10" />
+          <Property Name="Celular" Type="varchar" MaxLength="11" />
+          <Property Name="Obs" Type="varchar" MaxLength="200" />
+          <Property Name="TipoPessoa" Type="char" Nullable="false" MaxLength="1" />
+        </EntityType>
+        <EntityType Name="Devolucao">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Data" Type="datetime" Nullable="false" />
+          <Property Name="IdItemPedido" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Entrega">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="IdVenda" Type="int" Nullable="false" />
+          <Property Name="DataEntrega" Type="datetime" Nullable="false" />
+          <Property Name="Status" Type="varchar" Nullable="false" MaxLength="20" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'ProjetoFinal.dbo.ItemDevolucao' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="ItemDevolucao">
+          <Key>
+            <PropertyRef Name="Quantidade" />
+            <PropertyRef Name="IdProduto" />
+            <PropertyRef Name="IdDevolucao" />
+          </Key>
+          <Property Name="Quantidade" Type="int" Nullable="false" />
+          <Property Name="IdProduto" Type="int" Nullable="false" />
+          <Property Name="IdDevolucao" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ItemPedido">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Quantidade" Type="int" Nullable="false" />
+          <Property Name="IdProduto" Type="int" Nullable="false" />
+          <Property Name="IdVenda" Type="int" Nullable="false" />
+          <Property Name="Entrega" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PessoaFisica">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="IdCliente" Type="int" Nullable="false" />
+          <Property Name="CPF" Type="varchar" Nullable="false" MaxLength="14" />
+          <Property Name="RG" Type="varchar" MaxLength="12" />
+          <Property Name="Nome" Type="varchar" Nullable="false" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="PessoaJuridica">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="IdCliente" Type="int" Nullable="false" />
+          <Property Name="CNPJ" Type="varchar" Nullable="false" MaxLength="18" />
+          <Property Name="RazaoSocial" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="InscEstadual" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="Produto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Descricao" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="PrecoCompra" Type="float" Nullable="false" />
+          <Property Name="PrecoVenda" Type="float" Nullable="false" />
+          <Property Name="MargemLucro" Type="float" Nullable="false" />
+          <Property Name="Localizacao" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Marca" Type="varchar" MaxLength="40" />
+          <Property Name="SaldoAtual" Type="int" Nullable="false" />
+          <Property Name="Situacao" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Usuario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="Login" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Senha" Type="varchar" Nullable="false" MaxLength="20" />
+          <Property Name="Permissao" Type="varchar" Nullable="false" MaxLength="20" />
+          <Property Name="Situacao" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Venda">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="IdCliente" Type="int" />
+          <Property Name="IdUsuario" Type="int" Nullable="false" />
+          <Property Name="Desconto" Type="float" />
+          <Property Name="ValorTotal" Type="float" Nullable="false" />
+          <Property Name="Data" Type="datetime" Nullable="false" />
+          <Property Name="Dinheiro" Type="float" />
+          <Property Name="Debito" Type="float" />
+          <Property Name="Credito" Type="float" />
+          <Property Name="QtdParcela" Type="int" />
+        </EntityType>
+        <Association Name="FK_Devolucao_ItemPedido">
+          <End Role="ItemPedido" Type="ProjetoFinalModel.Store.ItemPedido" Multiplicity="1" />
+          <End Role="Devolucao" Type="ProjetoFinalModel.Store.Devolucao" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ItemPedido">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Devolucao">
+              <PropertyRef Name="IdItemPedido" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Entrega_Venda">
+          <End Role="Venda" Type="ProjetoFinalModel.Store.Venda" Multiplicity="1" />
+          <End Role="Entrega" Type="ProjetoFinalModel.Store.Entrega" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Venda">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Entrega">
+              <PropertyRef Name="IdVenda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ItemDevolucao_Devolucao">
+          <End Role="Devolucao" Type="ProjetoFinalModel.Store.Devolucao" Multiplicity="1" />
+          <End Role="ItemDevolucao" Type="ProjetoFinalModel.Store.ItemDevolucao" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Devolucao">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemDevolucao">
+              <PropertyRef Name="IdDevolucao" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ItemDevolucao_Produto">
+          <End Role="Produto" Type="ProjetoFinalModel.Store.Produto" Multiplicity="1" />
+          <End Role="ItemDevolucao" Type="ProjetoFinalModel.Store.ItemDevolucao" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Produto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemDevolucao">
+              <PropertyRef Name="IdProduto" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ItemPedido_Produto">
+          <End Role="Produto" Type="ProjetoFinalModel.Store.Produto" Multiplicity="1" />
+          <End Role="ItemPedido" Type="ProjetoFinalModel.Store.ItemPedido" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Produto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemPedido">
+              <PropertyRef Name="IdProduto" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ItemPedido_Venda">
+          <End Role="Venda" Type="ProjetoFinalModel.Store.Venda" Multiplicity="1" />
+          <End Role="ItemPedido" Type="ProjetoFinalModel.Store.ItemPedido" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Venda">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemPedido">
+              <PropertyRef Name="IdVenda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_PessoaFisica_Cliente">
+          <End Role="Cliente" Type="ProjetoFinalModel.Store.Cliente" Multiplicity="1" />
+          <End Role="PessoaFisica" Type="ProjetoFinalModel.Store.PessoaFisica" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PessoaFisica">
+              <PropertyRef Name="IdCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_PessoaJuridica_Cliente">
+          <End Role="Cliente" Type="ProjetoFinalModel.Store.Cliente" Multiplicity="1" />
+          <End Role="PessoaJuridica" Type="ProjetoFinalModel.Store.PessoaJuridica" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PessoaJuridica">
+              <PropertyRef Name="IdCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Venda_Cliente">
+          <End Role="Cliente" Type="ProjetoFinalModel.Store.Cliente" Multiplicity="0..1" />
+          <End Role="Venda" Type="ProjetoFinalModel.Store.Venda" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Venda">
+              <PropertyRef Name="IdCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Venda_Usuario">
+          <End Role="Usuario" Type="ProjetoFinalModel.Store.Usuario" Multiplicity="1" />
+          <End Role="Venda" Type="ProjetoFinalModel.Store.Venda" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Usuario">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Venda">
+              <PropertyRef Name="IdUsuario" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ProjetoFinalModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="ProjetoFinalEntities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="Usuarios" EntityType="ProjetoFinalModel.Usuario" />
+          <EntitySet Name="Clientes" EntityType="ProjetoFinalModel.Cliente" />
+          <EntitySet Name="PessoaFisicas" EntityType="ProjetoFinalModel.PessoaFisica" />
+          <EntitySet Name="PessoaJuridicas" EntityType="ProjetoFinalModel.PessoaJuridica" />
+          <AssociationSet Name="FK_PessoaFisica_Cliente" Association="ProjetoFinalModel.FK_PessoaFisica_Cliente">
+            <End Role="Cliente" EntitySet="Clientes" />
+            <End Role="PessoaFisica" EntitySet="PessoaFisicas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_PessoaJuridica_Cliente" Association="ProjetoFinalModel.FK_PessoaJuridica_Cliente">
+            <End Role="Cliente" EntitySet="Clientes" />
+            <End Role="PessoaJuridica" EntitySet="PessoaJuridicas" />
+          </AssociationSet>
+          <EntitySet Name="Entregas" EntityType="ProjetoFinalModel.Entrega" />
+          <EntitySet Name="Vendas" EntityType="ProjetoFinalModel.Venda" />
+          <AssociationSet Name="FK_Venda_Cliente" Association="ProjetoFinalModel.FK_Venda_Cliente">
+            <End Role="Cliente" EntitySet="Clientes" />
+            <End Role="Venda" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Entrega_Venda" Association="ProjetoFinalModel.FK_Entrega_Venda">
+            <End Role="Venda" EntitySet="Vendas" />
+            <End Role="Entrega" EntitySet="Entregas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Venda_Usuario" Association="ProjetoFinalModel.FK_Venda_Usuario">
+            <End Role="Usuario" EntitySet="Usuarios" />
+            <End Role="Venda" EntitySet="Vendas" />
+          </AssociationSet>
+          <EntitySet Name="Devolucaos" EntityType="ProjetoFinalModel.Devolucao" />
+          <EntitySet Name="ItemDevolucaos" EntityType="ProjetoFinalModel.ItemDevolucao" />
+          <AssociationSet Name="FK_ItemDevolucao_Devolucao" Association="ProjetoFinalModel.FK_ItemDevolucao_Devolucao">
+            <End Role="Devolucao" EntitySet="Devolucaos" />
+            <End Role="ItemDevolucao" EntitySet="ItemDevolucaos" />
+          </AssociationSet>
+          <EntitySet Name="ItemPedidoes" EntityType="ProjetoFinalModel.ItemPedido" />
+          <AssociationSet Name="FK_Devolucao_ItemPedido" Association="ProjetoFinalModel.FK_Devolucao_ItemPedido">
+            <End Role="ItemPedido" EntitySet="ItemPedidoes" />
+            <End Role="Devolucao" EntitySet="Devolucaos" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ItemPedido_Venda" Association="ProjetoFinalModel.FK_ItemPedido_Venda">
+            <End Role="Venda" EntitySet="Vendas" />
+            <End Role="ItemPedido" EntitySet="ItemPedidoes" />
+          </AssociationSet>
+          <EntitySet Name="Produtoes" EntityType="ProjetoFinalModel.Produto" />
+          <AssociationSet Name="FK_ItemDevolucao_Produto" Association="ProjetoFinalModel.FK_ItemDevolucao_Produto">
+            <End Role="Produto" EntitySet="Produtoes" />
+            <End Role="ItemDevolucao" EntitySet="ItemDevolucaos" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ItemPedido_Produto" Association="ProjetoFinalModel.FK_ItemPedido_Produto">
+            <End Role="Produto" EntitySet="Produtoes" />
+            <End Role="ItemPedido" EntitySet="ItemPedidoes" />
+          </AssociationSet>
+          </EntityContainer>
+        <EntityType Name="Usuario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+          <Property Name="Login" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Senha" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+          <Property Name="Permissao" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+          <Property Name="Situacao" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Vendas" Relationship="ProjetoFinalModel.FK_Venda_Usuario" FromRole="Usuario" ToRole="Venda" />
+        </EntityType>
+        <EntityType Name="Cliente">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Endereco" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CEP" Nullable="false" MaxLength="9" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Cidade" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="UF" Nullable="false" MaxLength="2" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Telefone" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Celular" MaxLength="11" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Obs" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="TipoPessoa" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+          <NavigationProperty Name="PessoaFisicas" Relationship="ProjetoFinalModel.FK_PessoaFisica_Cliente" FromRole="Cliente" ToRole="PessoaFisica" />
+          <NavigationProperty Name="PessoaJuridicas" Relationship="ProjetoFinalModel.FK_PessoaJuridica_Cliente" FromRole="Cliente" ToRole="PessoaJuridica" />
+          <NavigationProperty Name="Vendas" Relationship="ProjetoFinalModel.FK_Venda_Cliente" FromRole="Cliente" ToRole="Venda" />
+          <Property Type="String" Name="Bairro" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="PessoaFisica">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="IdCliente" Nullable="false" />
+          <Property Type="String" Name="CPF" Nullable="false" MaxLength="14" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="RG" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Nome" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Cliente" Relationship="ProjetoFinalModel.FK_PessoaFisica_Cliente" FromRole="PessoaFisica" ToRole="Cliente" />
+        </EntityType>
+        <EntityType Name="PessoaJuridica">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="IdCliente" Nullable="false" />
+          <Property Type="String" Name="CNPJ" Nullable="false" MaxLength="18" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="RazaoSocial" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="InscEstadual" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Cliente" Relationship="ProjetoFinalModel.FK_PessoaJuridica_Cliente" FromRole="PessoaJuridica" ToRole="Cliente" />
+        </EntityType>
+        <Association Name="FK_PessoaFisica_Cliente">
+          <End Type="ProjetoFinalModel.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.PessoaFisica" Role="PessoaFisica" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PessoaFisica">
+              <PropertyRef Name="IdCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_PessoaJuridica_Cliente">
+          <End Type="ProjetoFinalModel.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.PessoaJuridica" Role="PessoaJuridica" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PessoaJuridica">
+              <PropertyRef Name="IdCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Entrega">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="IdVenda" Nullable="false" />
+          <Property Type="DateTime" Name="DataEntrega" Nullable="false" Precision="3" />
+          <Property Type="String" Name="Status" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Venda" Relationship="ProjetoFinalModel.FK_Entrega_Venda" FromRole="Entrega" ToRole="Venda" />
+        </EntityType>
+        <EntityType Name="Venda">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="IdCliente" />
+          <Property Type="Int32" Name="IdUsuario" Nullable="false" />
+          <Property Type="Double" Name="Desconto" />
+          <Property Type="Double" Name="ValorTotal" Nullable="false" />
+          <Property Type="DateTime" Name="Data" Nullable="false" Precision="3" />
+          <Property Type="Double" Name="Dinheiro" />
+          <Property Type="Double" Name="Debito" />
+          <Property Type="Double" Name="Credito" />
+          <Property Type="Int32" Name="QtdParcela" />
+          <NavigationProperty Name="Cliente" Relationship="ProjetoFinalModel.FK_Venda_Cliente" FromRole="Venda" ToRole="Cliente" />
+          <NavigationProperty Name="Entregas" Relationship="ProjetoFinalModel.FK_Entrega_Venda" FromRole="Venda" ToRole="Entrega" />
+          <NavigationProperty Name="Usuario" Relationship="ProjetoFinalModel.FK_Venda_Usuario" FromRole="Venda" ToRole="Usuario" />
+          <NavigationProperty Name="ItemPedidoes" Relationship="ProjetoFinalModel.FK_ItemPedido_Venda" FromRole="Venda" ToRole="ItemPedido" />
+        </EntityType>
+        <Association Name="FK_Venda_Cliente">
+          <End Type="ProjetoFinalModel.Cliente" Role="Cliente" Multiplicity="0..1" />
+          <End Type="ProjetoFinalModel.Venda" Role="Venda" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Venda">
+              <PropertyRef Name="IdCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Entrega_Venda">
+          <End Type="ProjetoFinalModel.Venda" Role="Venda" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.Entrega" Role="Entrega" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Venda">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Entrega">
+              <PropertyRef Name="IdVenda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Venda_Usuario">
+          <End Type="ProjetoFinalModel.Usuario" Role="Usuario" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.Venda" Role="Venda" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Usuario">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Venda">
+              <PropertyRef Name="IdUsuario" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Devolucao">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="DateTime" Name="Data" Nullable="false" Precision="3" />
+          <Property Type="Int32" Name="IdItemPedido" Nullable="false" />
+          <NavigationProperty Name="ItemDevolucaos" Relationship="ProjetoFinalModel.FK_ItemDevolucao_Devolucao" FromRole="Devolucao" ToRole="ItemDevolucao" />
+          <NavigationProperty Name="ItemPedido" Relationship="ProjetoFinalModel.FK_Devolucao_ItemPedido" FromRole="Devolucao" ToRole="ItemPedido" />
+        </EntityType>
+        <EntityType Name="ItemDevolucao">
+          <Key>
+            <PropertyRef Name="Quantidade" />
+            <PropertyRef Name="IdProduto" />
+            <PropertyRef Name="IdDevolucao" />
+          </Key>
+          <Property Type="Int32" Name="Quantidade" Nullable="false" />
+          <Property Type="Int32" Name="IdProduto" Nullable="false" />
+          <Property Type="Int32" Name="IdDevolucao" Nullable="false" />
+          <NavigationProperty Name="Devolucao" Relationship="ProjetoFinalModel.FK_ItemDevolucao_Devolucao" FromRole="ItemDevolucao" ToRole="Devolucao" />
+          <NavigationProperty Name="Produto" Relationship="ProjetoFinalModel.FK_ItemDevolucao_Produto" FromRole="ItemDevolucao" ToRole="Produto" />
+        </EntityType>
+        <Association Name="FK_ItemDevolucao_Devolucao">
+          <End Type="ProjetoFinalModel.Devolucao" Role="Devolucao" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.ItemDevolucao" Role="ItemDevolucao" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Devolucao">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemDevolucao">
+              <PropertyRef Name="IdDevolucao" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ItemPedido">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="Quantidade" Nullable="false" />
+          <Property Type="Int32" Name="IdProduto" Nullable="false" />
+          <Property Type="Int32" Name="IdVenda" Nullable="false" />
+          <Property Type="Boolean" Name="Entrega" Nullable="false" />
+          <NavigationProperty Name="Devolucaos" Relationship="ProjetoFinalModel.FK_Devolucao_ItemPedido" FromRole="ItemPedido" ToRole="Devolucao" />
+          <NavigationProperty Name="Venda" Relationship="ProjetoFinalModel.FK_ItemPedido_Venda" FromRole="ItemPedido" ToRole="Venda" />
+          <NavigationProperty Name="Produto" Relationship="ProjetoFinalModel.FK_ItemPedido_Produto" FromRole="ItemPedido" ToRole="Produto" />
+        </EntityType>
+        <Association Name="FK_Devolucao_ItemPedido">
+          <End Type="ProjetoFinalModel.ItemPedido" Role="ItemPedido" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.Devolucao" Role="Devolucao" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ItemPedido">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Devolucao">
+              <PropertyRef Name="IdItemPedido" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ItemPedido_Venda">
+          <End Type="ProjetoFinalModel.Venda" Role="Venda" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.ItemPedido" Role="ItemPedido" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Venda">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemPedido">
+              <PropertyRef Name="IdVenda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Produto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Descricao" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Type="Double" Name="PrecoCompra" Nullable="false" />
+          <Property Type="Double" Name="PrecoVenda" Nullable="false" />
+          <Property Type="Double" Name="MargemLucro" Nullable="false" />
+          <Property Type="String" Name="Localizacao" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Marca" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="SaldoAtual" Nullable="false" />
+          <Property Type="Boolean" Name="Situacao" Nullable="false" />
+          <NavigationProperty Name="ItemDevolucaos" Relationship="ProjetoFinalModel.FK_ItemDevolucao_Produto" FromRole="Produto" ToRole="ItemDevolucao" />
+          <NavigationProperty Name="ItemPedidoes" Relationship="ProjetoFinalModel.FK_ItemPedido_Produto" FromRole="Produto" ToRole="ItemPedido" />
+        </EntityType>
+        <Association Name="FK_ItemDevolucao_Produto">
+          <End Type="ProjetoFinalModel.Produto" Role="Produto" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.ItemDevolucao" Role="ItemDevolucao" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Produto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemDevolucao">
+              <PropertyRef Name="IdProduto" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ItemPedido_Produto">
+          <End Type="ProjetoFinalModel.Produto" Role="Produto" Multiplicity="1" />
+          <End Type="ProjetoFinalModel.ItemPedido" Role="ItemPedido" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Produto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ItemPedido">
+              <PropertyRef Name="IdProduto" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ProjetoFinalModelStoreContainer" CdmEntityContainer="ProjetoFinalEntities">
+          <EntitySetMapping Name="Usuarios">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.Usuario">
+              <MappingFragment StoreEntitySet="Usuario">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Senha" ColumnName="Senha" />
+                <ScalarProperty Name="Permissao" ColumnName="Permissao" />
+                <ScalarProperty Name="Situacao" ColumnName="Situacao" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Clientes">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.Cliente">
+              <MappingFragment StoreEntitySet="Cliente">
+                <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+                <ScalarProperty Name="TipoPessoa" ColumnName="TipoPessoa" />
+                <ScalarProperty Name="Obs" ColumnName="Obs" />
+                <ScalarProperty Name="Celular" ColumnName="Celular" />
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="UF" ColumnName="UF" />
+                <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+                <ScalarProperty Name="CEP" ColumnName="CEP" />
+                <ScalarProperty Name="Endereco" ColumnName="Endereco" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PessoaFisicas">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.PessoaFisica">
+              <MappingFragment StoreEntitySet="PessoaFisica">
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="RG" ColumnName="RG" />
+                <ScalarProperty Name="CPF" ColumnName="CPF" />
+                <ScalarProperty Name="IdCliente" ColumnName="IdCliente" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PessoaJuridicas">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.PessoaJuridica">
+              <MappingFragment StoreEntitySet="PessoaJuridica">
+                <ScalarProperty Name="InscEstadual" ColumnName="InscEstadual" />
+                <ScalarProperty Name="RazaoSocial" ColumnName="RazaoSocial" />
+                <ScalarProperty Name="CNPJ" ColumnName="CNPJ" />
+                <ScalarProperty Name="IdCliente" ColumnName="IdCliente" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Entregas">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.Entrega">
+              <MappingFragment StoreEntitySet="Entrega">
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="DataEntrega" ColumnName="DataEntrega" />
+                <ScalarProperty Name="IdVenda" ColumnName="IdVenda" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Vendas">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.Venda">
+              <MappingFragment StoreEntitySet="Venda">
+                <ScalarProperty Name="QtdParcela" ColumnName="QtdParcela" />
+                <ScalarProperty Name="Credito" ColumnName="Credito" />
+                <ScalarProperty Name="Debito" ColumnName="Debito" />
+                <ScalarProperty Name="Dinheiro" ColumnName="Dinheiro" />
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="ValorTotal" ColumnName="ValorTotal" />
+                <ScalarProperty Name="Desconto" ColumnName="Desconto" />
+                <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+                <ScalarProperty Name="IdCliente" ColumnName="IdCliente" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Devolucaos">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.Devolucao">
+              <MappingFragment StoreEntitySet="Devolucao">
+                <ScalarProperty Name="IdItemPedido" ColumnName="IdItemPedido" />
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ItemDevolucaos">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.ItemDevolucao">
+              <MappingFragment StoreEntitySet="ItemDevolucao">
+                <ScalarProperty Name="IdDevolucao" ColumnName="IdDevolucao" />
+                <ScalarProperty Name="IdProduto" ColumnName="IdProduto" />
+                <ScalarProperty Name="Quantidade" ColumnName="Quantidade" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ItemPedidoes">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.ItemPedido">
+              <MappingFragment StoreEntitySet="ItemPedido">
+                <ScalarProperty Name="Entrega" ColumnName="Entrega" />
+                <ScalarProperty Name="IdVenda" ColumnName="IdVenda" />
+                <ScalarProperty Name="IdProduto" ColumnName="IdProduto" />
+                <ScalarProperty Name="Quantidade" ColumnName="Quantidade" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Produtoes">
+            <EntityTypeMapping TypeName="ProjetoFinalModel.Produto">
+              <MappingFragment StoreEntitySet="Produto">
+                <ScalarProperty Name="Situacao" ColumnName="Situacao" />
+                <ScalarProperty Name="SaldoAtual" ColumnName="SaldoAtual" />
+                <ScalarProperty Name="Marca" ColumnName="Marca" />
+                <ScalarProperty Name="Localizacao" ColumnName="Localizacao" />
+                <ScalarProperty Name="MargemLucro" ColumnName="MargemLucro" />
+                <ScalarProperty Name="PrecoVenda" ColumnName="PrecoVenda" />
+                <ScalarProperty Name="PrecoCompra" ColumnName="PrecoCompra" />
+                <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

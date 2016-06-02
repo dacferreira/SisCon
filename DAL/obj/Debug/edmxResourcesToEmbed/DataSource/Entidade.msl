@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProjetoFinalModelStoreContainer" CdmEntityContainer="ProjetoFinalEntities">
+    <EntitySetMapping Name="Usuarios">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+          <ScalarProperty Name="Permissao" ColumnName="Permissao" />
+          <ScalarProperty Name="Situacao" ColumnName="Situacao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="TipoPessoa" ColumnName="TipoPessoa" />
+          <ScalarProperty Name="Obs" ColumnName="Obs" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="UF" ColumnName="UF" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="CEP" ColumnName="CEP" />
+          <ScalarProperty Name="Endereco" ColumnName="Endereco" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PessoaFisicas">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.PessoaFisica">
+        <MappingFragment StoreEntitySet="PessoaFisica">
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="RG" ColumnName="RG" />
+          <ScalarProperty Name="CPF" ColumnName="CPF" />
+          <ScalarProperty Name="IdCliente" ColumnName="IdCliente" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PessoaJuridicas">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.PessoaJuridica">
+        <MappingFragment StoreEntitySet="PessoaJuridica">
+          <ScalarProperty Name="InscEstadual" ColumnName="InscEstadual" />
+          <ScalarProperty Name="RazaoSocial" ColumnName="RazaoSocial" />
+          <ScalarProperty Name="CNPJ" ColumnName="CNPJ" />
+          <ScalarProperty Name="IdCliente" ColumnName="IdCliente" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Entregas">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.Entrega">
+        <MappingFragment StoreEntitySet="Entrega">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="DataEntrega" ColumnName="DataEntrega" />
+          <ScalarProperty Name="IdVenda" ColumnName="IdVenda" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vendas">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.Venda">
+        <MappingFragment StoreEntitySet="Venda">
+          <ScalarProperty Name="QtdParcela" ColumnName="QtdParcela" />
+          <ScalarProperty Name="Credito" ColumnName="Credito" />
+          <ScalarProperty Name="Debito" ColumnName="Debito" />
+          <ScalarProperty Name="Dinheiro" ColumnName="Dinheiro" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="ValorTotal" ColumnName="ValorTotal" />
+          <ScalarProperty Name="Desconto" ColumnName="Desconto" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="IdCliente" ColumnName="IdCliente" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Devolucaos">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.Devolucao">
+        <MappingFragment StoreEntitySet="Devolucao">
+          <ScalarProperty Name="IdItemPedido" ColumnName="IdItemPedido" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ItemDevolucaos">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.ItemDevolucao">
+        <MappingFragment StoreEntitySet="ItemDevolucao">
+          <ScalarProperty Name="IdDevolucao" ColumnName="IdDevolucao" />
+          <ScalarProperty Name="IdProduto" ColumnName="IdProduto" />
+          <ScalarProperty Name="Quantidade" ColumnName="Quantidade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ItemPedidoes">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.ItemPedido">
+        <MappingFragment StoreEntitySet="ItemPedido">
+          <ScalarProperty Name="Entrega" ColumnName="Entrega" />
+          <ScalarProperty Name="IdVenda" ColumnName="IdVenda" />
+          <ScalarProperty Name="IdProduto" ColumnName="IdProduto" />
+          <ScalarProperty Name="Quantidade" ColumnName="Quantidade" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produtoes">
+      <EntityTypeMapping TypeName="ProjetoFinalModel.Produto">
+        <MappingFragment StoreEntitySet="Produto">
+          <ScalarProperty Name="Situacao" ColumnName="Situacao" />
+          <ScalarProperty Name="SaldoAtual" ColumnName="SaldoAtual" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Localizacao" ColumnName="Localizacao" />
+          <ScalarProperty Name="MargemLucro" ColumnName="MargemLucro" />
+          <ScalarProperty Name="PrecoVenda" ColumnName="PrecoVenda" />
+          <ScalarProperty Name="PrecoCompra" ColumnName="PrecoCompra" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

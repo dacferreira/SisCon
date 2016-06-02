@@ -1,0 +1,198 @@
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Visual Studio 2012\Projects\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v2\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v3\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\Projeto v4\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Documents\Diogo Doc's\Projeto Final\projeto v5\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Desktop\projeto v5\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Asus - PC\Desktop\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Documents\Doc's Diogo\Projeto Final\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Douglas\Desktop\projetofinal v8_Diogo\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_24_11_2015\projetofinal v8 - Cópia\ProjetoFinal_Rev8\Projeto Final-17-11-2015\projeto v3-correcao\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_26_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_27_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_28_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015 - Copia\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_29_11_2015\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev23\ProjetoFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\DAL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\DTO.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\DTO.pdb
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\obj\Debug\BLL.dll
+C:\Users\Diogo\Desktop\ProjetoFinal_Rev24\ProjetoFinal\BLL\obj\Debug\BLL.pdb
